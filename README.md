@@ -1,6 +1,6 @@
 # ESP8266-IoT-Weather-Station
 
-This is an IoT project in which the ESP8266 operates as a Weather Station. The ESP does the following:
+This is a simple IoT project in which the ESP8266 operates as a Weather Station. The ESP does the following:
 
 1. It will have the server side code i.e. HTTP server, running on it, so it basically behaves as a server waiting to serve a web page on request from the client side i.e. the web browser.
 2. It will also be responsible for communicating with the dht11 sensor and processing the sensor data.
