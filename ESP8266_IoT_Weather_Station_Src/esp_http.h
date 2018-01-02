@@ -31,8 +31,8 @@ SOFTWARE.
 #ifndef ESP_HTTP_H_
 #define ESP_HTTP_H_
 
-#define AP_SSID "Vinay1990"
-#define AP_PWD  "divakar1956"
+#define AP_SSID "username"
+#define AP_PWD  "password"
 
 extern void ICACHE_FLASH_ATTR esp_ap_connect(void);
 
